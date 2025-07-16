@@ -203,17 +203,17 @@
   
   /* Portfolio card effects */
   .portfolio-card {
-    @apply group cursor-pointer overflow-hidden rounded-lg border bg-card shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-1;
+    @apply cursor-pointer overflow-hidden rounded-lg border bg-card shadow-sm transition-all duration-300 hover:shadow-md hover:-translate-y-1;
   }
   
   /* Blog card hover */
   .blog-card {
-    @apply group cursor-pointer overflow-hidden rounded-lg border bg-card shadow-sm transition-all duration-300 hover:shadow-lg hover:border-primary/20;
+    @apply cursor-pointer overflow-hidden rounded-lg border bg-card shadow-sm transition-all duration-300 hover:shadow-lg hover:border-primary/20;
   }
   
   /* Service card glow */
   .service-card {
-    @apply group cursor-pointer rounded-lg border bg-card p-6 shadow-sm transition-all duration-300 hover:shadow-lg hover:border-primary/30;
+    @apply cursor-pointer rounded-lg border bg-card p-6 shadow-sm transition-all duration-300 hover:shadow-lg hover:border-primary/30;
   }
   
   /* CTA button variants */

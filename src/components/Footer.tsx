@@ -151,7 +151,7 @@ const Footer = () => {
               <div className="flex items-center gap-4">
                 <span>Built with React.js + Tailwind CSS</span>
                 <span>•</span>
-                <span>Hosted on Lovable</span>
+                <span>Hosted on me</span>
               </div>
               
               <div className="flex items-center gap-4">
